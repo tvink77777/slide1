@@ -1,4 +1,4 @@
-.img{height: 320px;width: 43%;position: relative;background-image: url("../img/18169.jpg");background-repeat: no-repeat;}
+.img,.img4{height: 320px;width: 43%;position: relative;background-image: url("../img/18169.jpg");background-repeat: no-repeat;}
 .verh,.niz{background-color: #8E8F8A;display: flex;}
 .white{width: 220px;height: 20%;background-color: white;top:13%;left: 35%;position: absolute;}
 .white p{text-align: center;    padding-top: 15%;font-size: large;color: #8F8F8F}
@@ -11,25 +11,26 @@
 .block3_3{position: relative;top:25%;left: 2%  ;  height: 140px;}
 .block3_4 {position: absolute;height: 318px;width: 57%;background-image: url(../img/18169.jpg);right: 0;}
 .button {position:relative;top: 35px;left: -28px;display: table; width: 100px; padding: 10px 60px; background: #FFC006; color: white; text-decoration: none;}
-.txt{    text-align: left;
-    width: 615px;
-    padding-left: 10px;
-    color: white;}
- .block31_3{display: flex;height: 245px;width: 100%;padding-left: 55px;}
- .block31_4 {
-    width: 94%;
-    height: 75px;
-    position: absolute;
-    padding-top: 190px;
-    margin-left: 0;text-transform: capitalize;
-}
+.txt{text-align: left;width: 615px;padding-left: 10px;color: white;}
+.block31_3{display: flex;height: 245px;width: 100%;padding-left: 55px;}
+.block31_4 {width: 94%;height: 75px;position: absolute;padding-top: 190px;margin-left: 0;text-transform: capitalize;}
 .block{margin-right: 15px;}
-.block31_3 li {
-    font-size: 12px;
-}
+.block31_3 li {font-size: 12px;}
 .two_columns{display: flex;}
-.niz{color:#A5A5A5;    height: 267px;}
+.niz{color:#A5A5A5;height: 267px;}
 .txt{color:#EBECE7}
-.pol{display: flex;    width: 100%;}
+.pol{display: flex;width: 100%;}
 .jopa{width: 35%;height: 50px;    padding-left: 49px;}
 .jopa2{width: 440px;background-color: #8E8F8A;font-size: 17px;}
+.img4{background-image: url("../img/letöltés1.jpg");background-size: cover;}
+.block4_3 p {margin: 0;font-size: 20px;text-align: left;padding-left: 110px;}
+.block4_3{margin-top: 55px;width: 43%;}
+.block4_3 img {width: 50px;height: 50px;position: relative;bottom: 4px;left: 135px;}
+.niz .block4_3 > div{display: flex;}
+.yellow{display: block !important;}
+.yellow p {color: #FFC006}
+.polovina-1,.polovina-2{width: 50%;height: 237px;}
+.polovina-1{width: 360px;background-size: cover;height: 119%;background-image: url(../img/1387435593_p1180712.jpg);}
+.block4_4{width: 57%;display: flex;}
+.polovina-2 P{text-align: center;font-size: 17px;}
+.polovina-2{padding-top: 35px;}
